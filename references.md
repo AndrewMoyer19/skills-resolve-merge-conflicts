@@ -1,3 +1,4 @@
-# References
-
-* octocat 1 😈
+## This is something conflicting, hopefully...
+##### maybe
+#### this 
+### will
